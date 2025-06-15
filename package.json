@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/distinctio-voluptates-aliquam-necessitatibus",
-  "version": "14.27.367",
+  "version": "14.28.367",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -822,5 +822,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/distinctio-voluptates-aliquam-necessitatibus/issues"
   },
-  "packageManager": "yarn@4.9.1"
+  "packageManager": "yarn@4.9.2"
 }
